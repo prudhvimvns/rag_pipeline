@@ -1,0 +1,17 @@
+NVIDIA Corporation is an American technology company headquartered in Santa Clara, California.
+
+NVIDIA was founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem.
+
+The company is best known for designing Graphics Processing Units (GPUs) used in gaming, artificial intelligence, machine learning, and data centers.
+
+NVIDIA's products include the GeForce series for gaming, RTX GPUs, DGX systems, and CUDA software platform.
+
+CUDA is a parallel computing platform that allows developers to use GPUs for general purpose computing.
+
+NVIDIA has become one of the leading companies in artificial intelligence due to the widespread use of its GPUs for training and deploying large language models.
+
+The company serves industries such as gaming, automotive, robotics, healthcare, cloud computing, and scientific research.
+
+Jensen Huang is the Chief Executive Officer (CEO) of NVIDIA.
+
+NVIDIA's headquarters is located in Santa Clara, California, United States.
